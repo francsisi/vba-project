@@ -19,5 +19,4 @@ exit
     cscript vbac.wsf decombine
     echo コードの分離が終了しました
 exit
-以上のファイルを作成することで PowerShell でのエクスポート・コンバートを以下のコマンドで実行することができます。
 
